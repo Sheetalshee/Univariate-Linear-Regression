@@ -37,8 +37,9 @@ plt.scatter(X,Y)
 plt.plot(X,Y_pred,color="green")
 plt.show()
 ```
-## Output
-![Uploading Screenshot 2023-12-28 171719.png…]()
+## Output:
+![Screenshot 2023-12-28 171719](https://github.com/PuliNagaNeeraj/Univariate-Linear-Regression/assets/138849173/974285f5-51de-4251-89d7-5b54c3852c5e)
+
 
 
 ## Result
